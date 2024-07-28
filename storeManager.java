@@ -15,5 +15,6 @@ public class storeManager extends Object {
             aRamens.makeRamen();
         }
 
+        
     }
 }

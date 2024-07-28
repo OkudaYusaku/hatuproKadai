@@ -16,6 +16,7 @@ public class syoRamen extends Ramen {
      */
     public void makeRamen() {
         System.out.println("醤油ラーメンの完成!! 価格" + price + "円");
+
     }
     
 }
