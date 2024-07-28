@@ -11,7 +11,7 @@ public class syoRamen extends Ramen {
     }
 
     /**
-     * スープを作るメソッドです
+     * ラーメンを作るメソッドです
      *  
      */
     public void makeRamen() {
