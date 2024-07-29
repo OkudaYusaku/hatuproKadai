@@ -1,3 +1,7 @@
+/**
+ * ラーメンを作るクラスです
+ */
+
 public class syoRamen extends Ramen {
 
     public int price = 650;
@@ -20,3 +24,6 @@ public class syoRamen extends Ramen {
     }
     
 }
+
+// コードレビュアー
+// 野口 裕生

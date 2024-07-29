@@ -1,3 +1,7 @@
+/**
+ * ラーメンを作るクラスです
+ */
+
 public class soltRamen extends Ramen {
 
     public int price = 700;
@@ -19,3 +23,6 @@ public class soltRamen extends Ramen {
 
     }
 }
+
+// コードレビュアー
+// 野口 裕生

@@ -5,3 +5,6 @@ public class Main extends Object {
         tenshu.perform();
     }
 }
+
+// コードレビュアー
+// 野口 裕生

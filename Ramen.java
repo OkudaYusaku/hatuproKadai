@@ -1,3 +1,7 @@
+/**
+ * ラーメンを作るクラスです
+ */
+
 public abstract class Ramen extends Object {
     
     
@@ -25,3 +29,6 @@ public abstract class Ramen extends Object {
      */
     public abstract void makeRamen();
 }
+
+// コードレビュアー
+// 野口 裕生

@@ -1,6 +1,8 @@
+/**
+ * 店主が塩or醤油ラーメンクラスを呼び出してラーメンを作ります。
+ */
+
 public class storeManager extends Object {
-
-
 
     public void perform() {
         
@@ -18,3 +20,6 @@ public class storeManager extends Object {
         
     }
 }
+
+// コードレビュアー
+// 野口 裕生
