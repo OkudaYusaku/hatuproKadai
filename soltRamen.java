@@ -4,6 +4,9 @@
 
 public class soltRamen extends Ramen {
 
+    /**
+     * 価格を入れるための変数
+     */
     public int price = 700;
 
     /**

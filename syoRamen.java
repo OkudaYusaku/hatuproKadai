@@ -4,6 +4,9 @@
 
 public class syoRamen extends Ramen {
 
+    /**
+     * 価格を入れるための変数
+     */
     public int price = 650;
 
     /**
